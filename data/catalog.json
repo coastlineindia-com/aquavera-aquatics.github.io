@@ -1,0 +1,149 @@
+{
+  "brand": "AQUAVERA",
+  "products": [
+    {
+      "id": "p01",
+      "name": "AquaVera 20 Gallon Planted Aquarium",
+      "category": "Aquarium Tanks",
+      "price": 149.99,
+      "image": "01-aquarium.jpg",
+      "badge": "Best Seller",
+      "desc": "A 20-gallon glass aquarium designed for planted freshwater displays and everyday home setups."
+    },
+    {
+      "id": "p02",
+      "name": "EHEIM Classic 250 Canister Filter",
+      "category": "Filtration",
+      "price": 129.99,
+      "image": "02-filter.jpg",
+      "badge": "",
+      "desc": "External canister filtration for clear, stable water in medium freshwater aquariums."
+    },
+    {
+      "id": "p03",
+      "name": "NICREW Full Spectrum LED Light 24\u201330 in",
+      "category": "Lighting",
+      "price": 89.99,
+      "image": "03-light.jpg",
+      "badge": "Popular",
+      "desc": "Adjustable-spectrum aquarium lighting for freshwater displays and planted tanks."
+    },
+    {
+      "id": "p04",
+      "name": "EHEIM J\u00e4ger 200W Aquarium Heater",
+      "category": "Heating",
+      "price": 34.99,
+      "image": "04-heater.jpg",
+      "badge": "",
+      "desc": "Adjustable aquarium heater for maintaining a consistent freshwater temperature."
+    },
+    {
+      "id": "p05",
+      "name": "Seachem Prime Water Conditioner 500ml",
+      "category": "Water Care",
+      "price": 16.99,
+      "image": "05-water-care.jpg",
+      "badge": "Essential",
+      "desc": "Concentrated water conditioner for treating tap water during aquarium setup and maintenance."
+    },
+    {
+      "id": "p06",
+      "name": "Natural Malaysian Driftwood Medium",
+      "category": "Hardscape",
+      "price": 24.99,
+      "image": "06-driftwood.jpg",
+      "badge": "",
+      "desc": "Natural driftwood selected for freshwater aquascaping, caves and structured layouts."
+    },
+    {
+      "id": "p07",
+      "name": "AquaVera 10 Gallon Nano Aquarium",
+      "category": "Aquarium Tanks",
+      "price": 89.99,
+      "image": "07-aquarium.jpg",
+      "badge": "New",
+      "desc": "Compact glass aquarium for bedrooms, offices and small planted freshwater displays."
+    },
+    {
+      "id": "p08",
+      "name": "OASE BioMaster Compact Canister Filter",
+      "category": "Filtration",
+      "price": 179.99,
+      "image": "08-filter.jpg",
+      "badge": "Premium",
+      "desc": "High-capacity external filtration with a compact footprint for demanding aquarium setups."
+    },
+    {
+      "id": "p09",
+      "name": "Chihiros WRGB II Slim Aquarium Light",
+      "category": "Lighting",
+      "price": 119.99,
+      "image": "09-light.jpg",
+      "badge": "Premium",
+      "desc": "Slim planted-tank lighting designed to enhance aquatic plant growth and color."
+    },
+    {
+      "id": "p10",
+      "name": "Java Fern Live Aquarium Plant",
+      "category": "Live Plants",
+      "price": 12.99,
+      "image": "10-plant.jpg",
+      "badge": "Easy Care",
+      "desc": "Hardy freshwater plant suitable for beginner aquascapes and established aquariums."
+    },
+    {
+      "id": "p11",
+      "name": "Seiryu Stone Natural Rock 5 lb",
+      "category": "Hardscape",
+      "price": 24.99,
+      "image": "11-rock.jpg",
+      "badge": "",
+      "desc": "Textured natural stone for creating height, contrast and structure in aquascapes."
+    },
+    {
+      "id": "p12",
+      "name": "Aqua Soil Planted Tank Substrate 9L",
+      "category": "Substrate",
+      "price": 44.99,
+      "image": "12-substrate.jpg",
+      "badge": "Planted",
+      "desc": "Granular planted-tank substrate designed for rooted aquatic plants and natural layouts."
+    },
+    {
+      "id": "p13",
+      "name": "Fine Mesh Aquarium Net 6 in",
+      "category": "Tools & Accessories",
+      "price": 8.99,
+      "image": "cat-09.jpg",
+      "badge": "",
+      "desc": "Fine mesh aquarium net for gentle fish handling and routine tank maintenance."
+    },
+    {
+      "id": "p14",
+      "name": "Aquarium Feeding & Maintenance Tongs",
+      "category": "Tools & Accessories",
+      "price": 15.99,
+      "image": "cat-09.jpg",
+      "badge": "",
+      "desc": "Long-reach tool for feeding, planting and light maintenance without disturbing the tank."
+    },
+    {
+      "id": "p15",
+      "name": "TetraMin Tropical Flakes 2.82 oz",
+      "category": "Fish Food",
+      "price": 9.99,
+      "image": "cat-08.jpg",
+      "badge": "Popular",
+      "desc": "Daily tropical fish food for community freshwater aquariums."
+    },
+    {
+      "id": "p16",
+      "name": "AquaVera Modern Aquarium Stand",
+      "category": "Stands",
+      "price": 119.99,
+      "image": "cat-10.jpg",
+      "badge": "New",
+      "desc": "Clean-lined aquarium stand with storage for equipment, food and maintenance supplies."
+    }
+  ]
+}

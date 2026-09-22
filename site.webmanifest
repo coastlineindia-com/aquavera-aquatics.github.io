@@ -1,0 +1,15 @@
+{
+  "name": "AQUAVERA Aquatic Co.",
+  "short_name": "AQUAVERA",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#06212c",
+  "theme_color": "#0aa7a8",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
