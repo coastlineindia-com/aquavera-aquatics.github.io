@@ -21,7 +21,7 @@
     },
     {
       "id": "p03",
-      "name": "NICREW Full Spectrum LED Light 24\u201330 in",
+      "name": "NICREW Full Spectrum LED Light 24–30 in",
       "category": "Lighting",
       "price": 89.99,
       "image": "03-light.jpg",
@@ -30,7 +30,7 @@
     },
     {
       "id": "p04",
-      "name": "EHEIM J\u00e4ger 200W Aquarium Heater",
+      "name": "EHEIM Jäger 200W Aquarium Heater",
       "category": "Heating",
       "price": 34.99,
       "image": "04-heater.jpg",
@@ -114,25 +114,25 @@
       "name": "Fine Mesh Aquarium Net 6 in",
       "category": "Tools & Accessories",
       "price": 8.99,
-      "image": "cat-09.jpg",
+      "image": "13-net.jpg",
       "badge": "",
       "desc": "Fine mesh aquarium net for gentle fish handling and routine tank maintenance."
     },
     {
       "id": "p14",
-      "name": "Aquarium Feeding & Maintenance Tongs",
+      "name": "Aquarium Maintenance Net 8 in",
       "category": "Tools & Accessories",
       "price": 15.99,
-      "image": "cat-09.jpg",
+      "image": "14-maintenance-tool.jpg",
       "badge": "",
-      "desc": "Long-reach tool for feeding, planting and light maintenance without disturbing the tank."
+      "desc": "Long-reach fine-mesh net for routine aquarium maintenance and gentle fish handling."
     },
     {
       "id": "p15",
       "name": "TetraMin Tropical Flakes 2.82 oz",
       "category": "Fish Food",
       "price": 9.99,
-      "image": "cat-08.jpg",
+      "image": "15-fish-food.jpg",
       "badge": "Popular",
       "desc": "Daily tropical fish food for community freshwater aquariums."
     },
@@ -141,7 +141,7 @@
       "name": "AquaVera Modern Aquarium Stand",
       "category": "Stands",
       "price": 119.99,
-      "image": "cat-10.jpg",
+      "image": "16-stand.jpg",
       "badge": "New",
       "desc": "Clean-lined aquarium stand with storage for equipment, food and maintenance supplies."
     }

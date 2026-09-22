@@ -477,7 +477,7 @@ The production version can provide support through email, live chat, and a dedic
 
 ## 📄 Project Status
 
-**Status:** Project in development
+**Status:** V2 visual refinement completed — project in development
 
 AQUAVERA is being developed as a modern ecommerce experience for aquarium equipment and aquatic supplies, with a focus on specialized product organization, realistic photography, responsive design, and useful aquarium-focused shopping tools.
 

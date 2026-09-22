@@ -1,11 +1,9 @@
-# Changelog
+# CHANGELOG — AQUAVERA V2
 
-## V1
-- Rebuilt AQUAVERA from the supplied reference-site architecture.
-- Added 16 coherent aquarium products with category-appropriate pricing.
-- Added local deterministic product/category imagery.
-- Added cart and wishlist persistence.
-- Added search, category filtering and sorting.
-- Added guides, support, contact, FAQ, shipping, returns, privacy and terms pages.
-- Added 16 product detail pages.
-- Added responsive layouts, favicon and web manifest.
+## V2 — Visual correction pass
+- Reframed all product photography so the actual products occupy useful space in their cards.
+- Rebuilt category images from product assets so category photographs contain no baked-in category labels.
+- Corrected category-to-image assignments, including Heating, Live Plants, Substrate, Hardscape, Water Care, Fish Food and Tools & Accessories.
+- Reframed the hero image to remove the original baked-in promotional text and category strip.
+- Added dedicated local images for the remaining catalog products.
+- Kept all ecommerce interactions from V1.

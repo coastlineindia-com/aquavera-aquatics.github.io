@@ -1,12 +1,9 @@
-# AQUAVERA Image Sources
+# AQUAVERA Image Sources — V2
 
-The visual assets in this demo were created for the storefront presentation and locally packaged into the ZIP. Product images are assigned deterministically to specific catalog items. No product card depends on a remote image URL.
+All storefront product/category images are packaged locally. Product and category cards use clean, tightly framed local assets so the product itself is visible at useful scale without baked-in UI text.
 
-## Image handling
-- Product photography is stored under `assets/images/products/`.
-- Category photography is stored under `assets/images/categories/`.
-- The hero image is stored under `assets/images/hero/`.
-- Images are locally referenced so the storefront can be uploaded to GitHub Pages without external image dependencies.
+The aquarium hero is a locally cropped aquarium photograph from the original project asset, with the original baked-in promotional text and category strip removed from the displayed hero image.
 
-## Presentation rule
-Product cards use `object-fit: contain` and dedicated image boxes so products remain completely visible instead of being aggressively cropped.
+The fish-food reference used for the remaining catalog item was retained from the original local asset; the storefront crops it above the original category label so no baked category title appears in the product card.
+
+No remote image URLs are required by the storefront.
